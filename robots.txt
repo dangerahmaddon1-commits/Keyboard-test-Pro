@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keyboardtest-pro.vercel.app/sitemap.xml
